@@ -1,4 +1,4 @@
-import 'package:ffi_file_io/native_file_reader.dart';
+import 'package:dart_io_ffi/native_file_reader.dart';
 
 void main(List<String> arguments) {
   final fileReader = NativeFileReader();
