@@ -2,6 +2,10 @@
 
 A Dart console application that demonstrates Foreign Function Interface (FFI) by reading text files using native C APIs. This project showcases how to bridge Dart and C code to perform file I/O operations using low-level POSIX system calls.
 
+## Full Medium Article
+
+You can read the full toturial article on my Medium: [Beyond Dart: Tapping into C's Power with FFI](https://devmuaz.medium.com/beyond-dart-tapping-into-cs-power-with-ffi-e3ef49990d56)
+
 ## Features
 
 - **Native File Reading**: Uses POSIX APIs (`open`, `read`, `fstat`) for file operations
